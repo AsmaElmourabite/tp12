@@ -1,36 +1,16 @@
 # TP12 — <Titre du projet>
 
-> Brève description : <Une phrase qui décrit l'objectif du TP12 — ex. "Service REST de gestion des X", "Application web de Y", etc.>
 
 ---
 🖼️ Capture d'écran
 ![Capture](https://github.com/AsmaElmourabite/tp12/blob/master/Capture%20d%E2%80%99%C3%A9cran%202025-11-11%20145826.jpg)
-![Capture]()
+![Capture](https://github.com/AsmaElmourabite/tp12/blob/master/Capture%20d%E2%80%99%C3%A9cran%202025-11-11%20145923.jpg)
 
-![Capture]()
-![Capture]()
-## 🧾 Sommaire
-- [Contexte](#-contexte)
-- [Technologies](#-technologies)
-- [Structure du projet](#-structure-du-projet)
-- [Installation](#-installation)
-- [Exécution](#-exécution)
-- [API / Endpoints](#-api--endpoints)
-- [Tests](#-tests)
-- [Configuration](#-configuration)
-- [Données initiales](#-données-initiales)
-- [Capture d'écran](#-capture-d-écran)
-- [Contribuer](#-contribuer)
-- [Licence](#-licence)
-- [Auteur](#-auteur)
+![Capture](https://github.com/AsmaElmourabite/tp12/blob/master/Capture%20d%E2%80%99%C3%A9cran%202025-11-11%20150056.jpg)
+![Capture](https://github.com/AsmaElmourabite/tp12/blob/master/Capture%20d%E2%80%99%C3%A9cran%202025-11-11%20150455.jpg)
 
 ---
 
-## 🧩 Contexte
-Explique ici le contexte du TP12, le cahier des charges et les fonctionnalités principales :
-- Fonctionnalité 1 : ...
-- Fonctionnalité 2 : ...
-- Fonctionnalité 3 : ...
 
 ---
 
